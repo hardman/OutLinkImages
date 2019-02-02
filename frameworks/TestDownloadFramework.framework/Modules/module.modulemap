@@ -1,6 +1,0 @@
-framework module TestDownloadFramework {
-  umbrella header "TestDownloadFramework.h"
-
-  export *
-  module * { export * }
-}
